@@ -19,4 +19,4 @@ Contents
 .. toctree::
 
    Initial Configuration <Initial_Configuration/index.rst>
-   api
+   The Programming Cheat Sheet <cheat-sheet/index.rst>
