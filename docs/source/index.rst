@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome The Broombots Resources for programming FIRST Tech Challenge Robots!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**How to Use This Site**
+These resources were made by first year Broombot Tobin Rumsey to help document how to do the basics of FTC programming. 
+Split up into four sections
+* Initial configuration
+* Using your IDE
+* Basics of Java
+* Using the FTC SDK
 
 .. note::
 
@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
+   Initial Configuration
    api
